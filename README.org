@@ -1,0 +1,9 @@
+* 3b-hdr
+
+Read/write Radiance HDR files
+
+|---------+--------------------------------------|
+| source  | git:https://github.com/3b/3b-hdr.git |
+| commit  | b16fb6a                              |
+| systems | 3b-hdr                               |
+|---------+--------------------------------------|
